@@ -1,9 +1,6 @@
 # VERTAG
 
-**VERTAG: Visual Examiner Rationales for Trademarks with Atomic Grounding**
-*A Confusion Benchmark, Faithful Retriever, and Explanation-Coverage Metric*
-
-ACCV 2026.
+**VERTAG: Visual Examiner Rationales for Trademarks with Atomic Grounding — A Confusion Benchmark, Faithful Retriever, and Explanation-Coverage Metric** (ACCV 2026)
 
 ## License
 
